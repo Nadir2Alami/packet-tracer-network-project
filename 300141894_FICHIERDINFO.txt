@@ -1,0 +1,65 @@
+******LOGINS WLC******
+
+
+Admin123
+Cisco@123!
+Cisco@123!
+##pour les deux WLC
+
+**** SECRET RADIUS/WLC ******
+
+Radiuslogin@123!
+
+
+*****GuestsPSK *******
+Guestscode1234@!
+
+
+***** SECRET RADIUS ADMINS *****
+RadiusAdminlogin123@!
+
+
+*****ssh poour router*****
+username/: Nadir
+password : Cisco123!
+
+****ssh SW-1 *****
+Switch123! mdp
+SWITCH1
+
+****PRE-SHARED-KEY*****
+PRESHARE1
+
+
+****R2****
+ROUTER2
+Cisco1234!
+
+
+*****SWITCH-M*****
+SWITCH-M
+SWITCH-M123!
+
+
+****SWITCH-GUEST***
+username GUEST-CON secret GUEST123!
+
+*****SWITCH-WORKER******
+username SWITCH-W secret SWITCH-W123!
+
+
+
+*****router-isp*****
+username ROUTER-ISP secret ROUTER-ISP123!
+
+
+*****ROUTER SWITCH-M2********
+username SWITCH-M2 secret SWITCH-M2123!
+
+
+******SWITCH-A*****
+username SWITCH-A secret SWITCH-A123!
+
+******SWITCH-G2******
+username SWITCH-G2 secret SWITCH-G2123!
+
