@@ -20,3 +20,5 @@ Routing and connectivity: Used inter-VLAN routing, OSPF, and static routing to s
 Skills Demonstrated
 
 Cisco networking, VLANs, subnetting, routing, GRE tunneling, IPsec VPN, SSH, wireless networking, RADIUS/AAA, DHCP, and network troubleshooting.
+<img width="810" height="442" alt="image" src="https://github.com/user-attachments/assets/e90ad570-3e7e-466f-9891-bf52f89370e0" />
+
